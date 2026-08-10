@@ -105,3 +105,15 @@ The final result is a double-layer PCB designed to serve as the main control boa
 ## 3D View
 
 ![3D PCB View](images/3d-view.png)
+
+---
+
+# 👩‍💻 Author
+
+**Nassebah Al-Dubayyan**
+
+Computer Science Student
+
+<p align="center">
+⭐ If you found this project interesting, consider giving it a star!
+</p>
